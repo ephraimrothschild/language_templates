@@ -152,7 +152,7 @@ module LanguageTemplates
       'cor' => 'c/cor.cor',
       'crystal' => 'c/crystal.cr',
       'csh' => 'c/csh.csh',
-      'csharp' => 'c/csharp.cs',
+      'c#' => 'c/csharp.cs',
       'css' => 'c/css.css',
       'cypherneo4j' => 'c/cypherNeo4j.cypher',
       # 'hello world' => 'c/hello-world.curry', #commented out because I don't know what the programming language is
